@@ -111,7 +111,7 @@ h6 {
 
 .masthead h1 {
   font-family: 'Monoton', cursive;
-  font-size: 25vw;
+  font-size: 10vw;
   text-shadow: 3px 3px #f8b195;
   text-shadow: 5px 5px #f17283;
   margin: 0;
@@ -120,7 +120,7 @@ h6 {
 
 @media (min-width: 992px) {
   .masthead {
-    height: 100vw;
+    height: 100vh;
   }
   .masthead h1 {
     font-size: 5.5vw;
