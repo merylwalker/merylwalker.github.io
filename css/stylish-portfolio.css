@@ -120,7 +120,7 @@ h6 {
 
 @media (min-width: 992px) {
   .masthead {
-    height: 100vh;
+    height: 100vw;
   }
   .masthead h1 {
     font-size: 5.5vw;
